@@ -2,8 +2,15 @@ Melisa Andreea Bogdan
 **
 MongoDB assessment (3h total work)
 
-Dependencies needed: npm install -y 
-For testing: npm --save-dev jest
+Dependencies needed: 
+  npm init (for the the node modules)
+  npm install -y 
+For testing: 
+  npm --save-dev jest
+To start it:
+  nodemongoDB.js
+ To start the tests:
+  npm test
 
 What I achieved to do: 
 The code is implemented using JavaScript. I am new to testing in JavaScript so the reason I chose to work with it is because I have worked before with json objects only in JavaScript. 
